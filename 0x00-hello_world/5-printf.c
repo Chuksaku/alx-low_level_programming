@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main... a program that prints a line using the printf function
+ * main... Write a C program that prints exactly with proper grammar
  * Return: 0 (Success)
  */
 int main(void)
